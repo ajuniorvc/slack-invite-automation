@@ -5,14 +5,12 @@ Slack Invite Automation
 
 A tiny web application to invite a user into your Slack team.
 
-Inspired by
-[How I hacked Slack into a community platform with Typeform](https://levels.io/slack-typeform-auto-invite-sign-ups/)
-and Socket.io's Slack page.
-
-This project supports Heroku, Azure, Cloud Foundry, Amazon Web Services (AWS), and [ic.dev](https://ic.dev).
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+This project supports Heroku, Azure, Cloud Foundry, Amazon Web Services (AWS), and [ic.dev](https://ic.dev).
+
 
 ## Settings
 
